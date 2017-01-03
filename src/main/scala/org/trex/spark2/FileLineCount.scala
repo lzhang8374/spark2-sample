@@ -15,7 +15,5 @@ object FileLineCount {
     println(file.count())
     println(file.first)
     println("------------------------------------------------------------------------------")
-
-
   }
 }
